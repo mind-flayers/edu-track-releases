@@ -5,8 +5,6 @@
 
 ---
 
-# 🎓 EduTrack - Academy Management System
-
 <div align="center">
   <img src="assets/images/app_logo_high.png" alt="EduTrack Logo" width="200"/>
   
