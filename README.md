@@ -553,5 +553,5 @@ If you find EduTrack helpful, please consider:
     <a href="https://github.com/mind-flayers/edu-track-releases/issues">🐛 Report Bug</a> •
     <a href="https://github.com/mind-flayers/edu-track-releases/issues">💡 Request Feature</a>
   </p>
-  <p><sub>© 2025 Mishaf Hasan. All rights reserved.</sub></p>
+  <p><sub>© 2026 Mishaf Hasan. All rights reserved.</sub></p>
 </div>
