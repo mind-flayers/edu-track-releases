@@ -6,7 +6,7 @@ Thank you for your interest in contributing to EduTrack!
 
 If you find a bug or have a feature request:
 
-1. Check if the issue already exists in [Issues](https://github.com/mind-flayers/edu-track-releases/issues)
+1. Check if the issue already exists in [Issues](https://github.com/mishafhasan/edu-track-releases/issues)
 2. If not, create a new issue with:
    - Clear description of the problem
    - Steps to reproduce
@@ -21,8 +21,8 @@ Instead, email directly to: mishaf1106@gmail.com
 
 ## Questions?
 
-- Check the [FAQ](https://github.com/mind-flayers/edu-track-releases#faq)
-- Open a [discussion](https://github.com/mind-flayers/edu-track-releases/discussions)
+- Check the [FAQ](https://github.com/mishafhasan/edu-track-releases#faq)
+- Open a [discussion](https://github.com/mishafhasan/edu-track-releases/discussions)
 - Email: mishaf1106@gmail.com
 
 ---

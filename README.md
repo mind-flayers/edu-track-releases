@@ -31,8 +31,8 @@ Manage students, teachers, attendance, exams, fees, and parent communication - a
 > **Important**: This is the **PRIVATE DEVELOPMENT REPOSITORY** containing full source code.
 
 **📦 Public Releases**: For downloading APK files and viewing public documentation, visit:
-- **Download APKs**: https://github.com/mind-flayers/edu-track-releases-releases/releases
-- **Public Docs**: https://github.com/mind-flayers/edu-track-releases-releases
+- **Download APKs**: https://github.com/mishafhasan/edu-track-releases-releases/releases
+- **Public Docs**: https://github.com/mishafhasan/edu-track-releases-releases
 
 **🚀 Automated Releases**: Pushing a version tag (e.g., `v1.0.0`) to this repository automatically:
 - Builds production APK files
@@ -80,7 +80,7 @@ Flutter App + Next.js Portal + WhatsApp Bot
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/mind-flayers/edu-track-releases.git
+git clone https://github.com/mishafhasan/edu-track-releases.git
 cd edu_track
 
 # Initialize and clone the WhatsApp bot submodule (optional)
@@ -88,7 +88,7 @@ git submodule init
 git submodule update
 ```
 
-> **Note**: The WhatsApp bot is maintained in a separate repository at [https://github.com/mind-flayers/whatsapp-edutrack-bot](https://github.com/mind-flayers/whatsapp-edutrack-bot) and linked as a git submodule.
+> **Note**: The WhatsApp bot is maintained in a separate repository at [https://github.com/mishafhasan/whatsapp-edutrack-bot](https://github.com/mishafhasan/whatsapp-edutrack-bot) and linked as a git submodule.
 
 ---
 
@@ -162,7 +162,7 @@ npm run bridge  # Terminal 2: Start Firebase queue processor
 
 **Deploy**: Free 24/7 hosting on **Render.com** with Firebase Storage for session persistence and cron-job.org for keep-alive.
 
-**Repository**: [https://github.com/mind-flayers/whatsapp-edutrack-bot](https://github.com/mind-flayers/whatsapp-edutrack-bot)
+**Repository**: [https://github.com/mishafhasan/whatsapp-edutrack-bot](https://github.com/mishafhasan/whatsapp-edutrack-bot)
 
 See the separate repository's README for complete deployment instructions.
 
@@ -192,7 +192,7 @@ db/                     # Database scripts and documentation
 docs/                   # Deployment and setup guides
 ```
 
-> **Important**: The `whatsapp-edutrack-bot` directory is a **Git Submodule** pointing to [https://github.com/mind-flayers/whatsapp-edutrack-bot](https://github.com/mind-flayers/whatsapp-edutrack-bot). Use `git submodule init && git submodule update` to clone it.
+> **Important**: The `whatsapp-edutrack-bot` directory is a **Git Submodule** pointing to [https://github.com/mishafhasan/whatsapp-edutrack-bot](https://github.com/mishafhasan/whatsapp-edutrack-bot). Use `git submodule init && git submodule update` to clone it.
 
 ## 🛠️ Tech Stack
 
@@ -463,7 +463,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Contact**: Mishaf Hasan • mishaf1106@gmail.com
 
-**Issues**: [GitHub Issues](https://github.com/mind-flayers/edu-track-releases/issues) - Include component, platform, steps to reproduce
+**Issues**: [GitHub Issues](https://github.com/mishafhasan/edu-track-releases/issues) - Include component, platform, steps to reproduce
 
 **Help**: Check docs → Search existing issues → Create new issue → Email support
 
@@ -499,7 +499,7 @@ $0/month on Render.com free tier with cron-job.org keep-alive and Firebase Stora
 **Q: Customize branding?**  
 Yes - update `lib/app/utils/constants.dart` and assets/images/
 
-**Troubleshooting**: Check component-specific READMEs • Search [GitHub Issues](https://github.com/mind-flayers/edu-track-releases/issues) • Email: mishafhasan@gmail.com
+**Troubleshooting**: Check component-specific READMEs • Search [GitHub Issues](https://github.com/mishafhasan/edu-track-releases/issues) • Email: mishafhasan@gmail.com
 
 ---
 
@@ -568,9 +568,9 @@ If you find EduTrack helpful, please consider:
   <h3>Made with ❤️ for Educational Institutions</h3>
   <p>Empowering academies with modern technology</p>
   <p>
-    <a href="https://github.com/mind-flayers/edu-track-releases">⭐ Star on GitHub</a> •
-    <a href="https://github.com/mind-flayers/edu-track-releases/issues">🐛 Report Bug</a> •
-    <a href="https://github.com/mind-flayers/edu-track-releases/issues">💡 Request Feature</a>
+    <a href="https://github.com/mishafhasan/edu-track-releases">⭐ Star on GitHub</a> •
+    <a href="https://github.com/mishafhasan/edu-track-releases/issues">🐛 Report Bug</a> •
+    <a href="https://github.com/mishafhasan/edu-track-releases/issues">💡 Request Feature</a>
   </p>
   <p><sub>© 2025 Mishaf Hasan. All rights reserved.</sub></p>
 </div>
